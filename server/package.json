@@ -1,0 +1,13 @@
+{
+  "name": "jev-adblock-server",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local relay server that classifies page elements as ads with the Jev API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
